@@ -1,0 +1,2 @@
+providerDevFilter=com.dubbo.dev.plugin.filter.ProviderDevFilter
+consumerDevFilter=com.dubbo.dev.plugin.filter.ConsumerDevFilter

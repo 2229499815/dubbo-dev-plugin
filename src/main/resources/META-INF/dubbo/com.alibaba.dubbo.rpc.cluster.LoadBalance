@@ -1,0 +1,1 @@
+devLoadbalance=com.dubbo.dev.plugin.loadbalance.DevLoadBalance
